@@ -1,0 +1,19 @@
+.box__container{
+    margin: 2rem 0 0 0;
+    width: 100%;
+    height: auto;
+    border: 1px solid black;
+}
+
+.box__content{
+    margin: 3rem 0 3rem 3rem;
+    width: 70rem;
+    height: 30rem;
+    border: 1px solid black;
+}
+
+.box__content input{
+    position: absolute;
+    right: 13rem;
+    bottom: 5.5rem;
+}
